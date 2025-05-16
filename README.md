@@ -37,39 +37,22 @@ Interface web para cadastro, login de usuários e gerenciamento de transações 
 ### ✅ Pré-requisitos
 
 - Node.js instalado  
-- Backend da API em funcionamento (porta 3000 por padrão)
+- Backend da API no repositório: https://github.com/viniciusfernandes08/carteira-backend em funcionamento (porta 3000 por padrão)
 
 ### 🔧 Passos
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/seu-frontend.git
+   git clone https://github.com/viniciusfernandes08/carteira-frontend
 
 2. Instale as dependências:
 
-npm install
+   npm install
 
 3. Inicie o servidor de desenvolvimento:
 
-npm run dev
+   npm run dev
 
 A aplicação será executada no navegador, normalmente em http://localhost:5173
-
-🔐 Como usar
-Após iniciar o backend e o frontend:
-
-Cadastre um usuário na interface inicial
-
-Faça login usando as mesmas credenciais
-
-Navegue até o Dashboard e utilize as opções:
-
-Depósito
-
-Transferência
-
-Reversão
-
-O histórico de transações e o saldo serão atualizados automaticamente
 
 ## 🔐 Como usar
  *Após iniciar o backend e o frontend:*
@@ -80,11 +63,11 @@ O histórico de transações e o saldo serão atualizados automaticamente
 
 - Navegue até o Dashboard e utilize as opções:
 
-**Depósito**
-
-**Transferência**
-
-**Reversão**
+   **Depósito**
+   
+   **Transferência**
+   
+   **Reversão**
 
 - O histórico de transações e o saldo serão atualizados automaticamente
 
